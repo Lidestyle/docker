@@ -16,6 +16,7 @@ Result:
 
 Here is example of nginx configuration fail (located in /var/www/html, cald index*.html)
 
+
 ### FOR GREEN BACKGROUND
 ```sh
 <!DOCTYPE html>
