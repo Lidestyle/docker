@@ -1,16 +1,16 @@
 ## Homework
 
-You will need to run 2 containers with Nginx.
-Both containers must have nginx page config files in volume.
-Requirements: 
-	first container = GREEN page background,
-	second container = BLUE page background
+_You will need to run 2 containers with Nginx._
+_Both containers must have nginx page config files in volume._
+(_Requirements:_*
+	_first container = GREEN page background,_
+	_second container = BLUE page background_
 
-Then you have to create service, which will point to both containers.
+_Then you have to create service, which will point to both containers._
 
-Result: 
-	when we go to service endpoint, and refresh page periodicaly, 
-	we will get different background.
+_Result:_
+	_when we go to service endpoint, and refresh page periodicaly,_
+	_we will get different background._
 	
 *!!!NOTE!!!*
 
