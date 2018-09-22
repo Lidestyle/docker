@@ -12,9 +12,10 @@ Result:
 	when we go to service endpoint, and refresh page periodicaly, 
 	we will get different background.
 	
-*NOTE*
+*!!!NOTE!!!*
 
-Here is example of nginx configuration fail (located in /var/www/html, cald index*.html)
+_You should use you'r own docker registry for storing images._
+_Here is example of nginx configuration fail (located in /var/www/html, cald index*.html)_
 
 
 ### FOR GREEN BACKGROUND
