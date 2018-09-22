@@ -15,6 +15,8 @@ _Result:_
 *!!!NOTE!!!*
 
 _You should use you'r own docker registry for storing images._
+### Deploy registry example: 
+	![Setup Docker registry](/images/logo.png)
 _Here is example of nginx configuration fail (located in /var/www/html, cald index*.html)_
 
 
