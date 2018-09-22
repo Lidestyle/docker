@@ -2,7 +2,8 @@
 
 _You will need to run 2 containers with Nginx and 1 with apache using docker compose_
 _2 containers must have nginx page config files in volume. Container with apache must have balancer to other containers._
-(_Requirements:_*
+
+#### _Requirements:_
 	_first container (nginx) = GREEN page background,_
 	_second container (nginx) = BLUE page background_
 	_third container (apache) = balancer to other containers
