@@ -1,17 +1,11 @@
 ## Homework
 
-_You will need to run 2 containers with Nginx._
+_You will need to run 2 containers with Nginx using docker compose_
 _Both containers must have nginx page config files in volume._
 (_Requirements:_*
 	_first container = GREEN page background,_
 	_second container = BLUE page background_
 
-_Then you have to create service, which will point to both containers._
-
-_Result:_
-	_when we go to service endpoint, and refresh page periodicaly,_
-	_we will get different background._
-	
 **NOTE**
 
 _You should use you'r own docker registry for storing images._
