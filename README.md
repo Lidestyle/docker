@@ -12,7 +12,7 @@ _Result:_
 	_when we go to service endpoint, and refresh page periodicaly,_
 	_we will get different background._
 	
-*!!!NOTE!!!*
+**NOTE**
 
 _You should use you'r own docker registry for storing images._
 #### Deploy registry example: [Setup Docker registry](https://docs.docker.com/registry/deploying/#run-a-local-registry)
