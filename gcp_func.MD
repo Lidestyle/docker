@@ -4,11 +4,11 @@ instances described in file.
 
 Feel free to create 3 vm's before.
 
-Note:
+#### Note:
 	- only 2 vm's can be running. if all of them have "start" action 
 	  start 2 of them and modify param.json in bucket
 
-Param.json example:
+#### Param.json example:
 ```sh
 {
 	"vm-first": "[INSTANCE_NAME]": {
