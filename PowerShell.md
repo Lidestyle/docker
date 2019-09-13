@@ -1,14 +1,14 @@
 #### Code of conduct
 
 --- | ---
-No ScriptAnalyzer Warnings | https://github.com/PowerShell/PSScriptAnalyzer
-At last one object/function operation | https://ss64.com/ps/syntax-functions.html
+No ScriptAnalyzer Warnings | [Get PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer)
+At last one object/function operation | [Simple Example](https://ss64.com/ps/syntax-functions.html)
 
 ##### Advanced [Optional]
 
 --- | ---
 Move your functional into module | https://docs.microsoft.com/en-us/powershell/developer/module/understanding-a-windows-powershell-module
-Unit tests with Pester           | https://github.com/pester/Pester
+Unit tests with Pester | https://github.com/pester/Pester
 
 #### Task 1
 
