@@ -1,8 +1,8 @@
 #### Code of conduct
 
 --- | ---
-No ScriptAnalyzer Warnings | [Get PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer)
-At last one object/function operation | [Simple Example](https://ss64.com/ps/syntax-functions.html)
+| No ScriptAnalyzer Warnings | [Get PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) |
+| At last one object/function operation | [Simple Example](https://ss64.com/ps/syntax-functions.html) |
 
 ##### Advanced [Optional]
 
