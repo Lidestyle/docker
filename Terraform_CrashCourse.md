@@ -1,10 +1,10 @@
 
 ### Description:
 
-| Cloud platform:         | AWS
-                       ---|---
-| **Terraform version:**  | **>= 0.12.12**
-| **Provider version**:   | **>= 2.35.9**
+| Cloud platform:         | AWS |
+---|---
+| **Terraform version:**  | **>= 0.12.12** |
+| **Provider version**:   | **>= 2.35.9**  |
   
 ##### Write the code which be menaged to create the following resources:
 
