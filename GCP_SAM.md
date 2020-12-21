@@ -11,15 +11,18 @@ Feel free to create 3 vm's before.
 #### Param.json example:
 ```sh
 {
-	"vm-first": "[INSTANCE_NAME]": {
+	"vm-first": {
+		"name": "[INSTANCE_NAME]",
 		"zone": "[INSTANCE_ZONE]",
 		"action": "stop"
 		},
-	"vm-second": "[INSTANCE_NAME]": {
+	"vm-second": {
+		"name": "[INSTANCE_NAME]",
 		"zone": "[INSTANCE_ZONE]",
 		"action": "start"
 		},
-	"vm-third": "[INSTANCE_NAME]": {
+	"vm-third": {
+		"name": "[INSTANCE_NAME]",
 		"zone": "[INSTANCE_ZONE]",
 		"action": "start"
 		}
