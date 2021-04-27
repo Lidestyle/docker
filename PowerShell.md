@@ -1,15 +1,15 @@
 #### Code of conduct
 
-|||
---- | ---
+
 | No ScriptAnalyzer Warnings | [Get PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) |
+--- | ---
 | At last one object/function operation | [Simple Example](https://ss64.com/ps/syntax-functions.html) |
 
 ##### Advanced [Optional]
 
-|||
---- | ---
+
 Modules instead of scripts | [Understanding modules](https://docs.microsoft.com/en-us/powershell/developer/module/understanding-a-windows-powershell-module)
+--- | ---
 Unit tests with Pester | [Pester overview](https://github.com/pester/Pester)
 
 #### Task 1
@@ -28,7 +28,7 @@ Provide Get-Help documentation.
 #### Task 2
 
 
-You should create a PowerShell script which will initially install dotnetcore-sdk (2.1.300) via chocolately.
+You should create a PowerShell script which will initially install dotnetcore-sdk (5.x) via chocolately.
 It's importent to
 
 Possible parameters: 
@@ -37,7 +37,7 @@ Possible parameters:
 
 Functional:
 
- - *--autoupgrade argument* - script should create daily schedule for running ```sh > choco upgrade dotnetcore-sdk ``` command.
+ - *--autoupgrade argument* - script should create daily schedule for running ``` choco upgrade dotnetcore-sdk ``` command.
  - *--uninstall argument* - uninstall dotnetcore-sdk , chocolately, and scheduler (if exist)
  
 Simple error hendling and logging are required.
